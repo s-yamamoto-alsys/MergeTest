@@ -1,1 +1,1 @@
-READMEを更新
+README2を更新
